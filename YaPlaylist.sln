@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YaPlaylist", "YaPlaylist\YaPlaylist.csproj", "{B9F53D7F-D6A2-4AA3-9894-782BD8BC6016}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9F53D7F-D6A2-4AA3-9894-782BD8BC6016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F53D7F-D6A2-4AA3-9894-782BD8BC6016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F53D7F-D6A2-4AA3-9894-782BD8BC6016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F53D7F-D6A2-4AA3-9894-782BD8BC6016}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1274C4DB-2B57-4EF9-BA38-6FA8DEB31E99}
+	EndGlobalSection
+EndGlobal
